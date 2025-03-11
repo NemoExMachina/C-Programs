@@ -42,8 +42,8 @@
     <span class="keyword">return</span> 0;}
     }
     <br>
-    <img src="C:\Users\Admin\Documents\Binay's Assignments\024NEB840__assignment1\HTML\Programs\Odd.png" alt="Output" width="350" height="80">
-    <img src="C:\Users\Admin\Documents\Binay's Assignments\024NEB840__assignment1\HTML\Programs\Even.png" alt="Output" width="350" height="80">
+    <img src="Odd.png" alt="Output" width="350" height="80">
+    <img src="Even.png" alt="Output" width="350" height="80">
     <div class="code-container">
             <h2>String Handling Functions</h2>
             <pre>
@@ -96,6 +96,6 @@
     <span class="keyword">return</span> 0;
     </pre>
     </div>
-    <img src="C:\Users\Admin\Documents\Binay's Assignments\024NEB840__assignment1\HTML\Programs\String.png" alt="Output" width="400" height="400">
+    <img src="String.png" alt="Output" width="400" height="400">
     </body>
 </html>
