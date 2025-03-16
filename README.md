@@ -143,5 +143,3 @@
     </div>
     </body>
 </html>
-![1D-Array](https://github.com/user-attachments/assets/33cbb19a-daa0-4e0e-afc8-2f85e67fad9a)
-![2D-Array](https://github.com/user-attachments/assets/06aef6a4-c2bb-418c-8e28-d96709825958)
